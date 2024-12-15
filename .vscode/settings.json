@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\web\\itu\\ads\\algs4.jar"
+    ]
+}
